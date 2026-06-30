@@ -1,0 +1,8 @@
+{
+  "name": "Gacha Dashboard",
+  "description": "Web dashboard to view Gacha API numbers and OTPs using Next.js App Router.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
